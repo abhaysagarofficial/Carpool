@@ -23,7 +23,7 @@ export default function Navbar() {
         <div className="flex items-center m-10">
           <input
             type="text"
-            className="boder border-white p-2 bg-gray-800 text-white m-10"
+            className="border-2 border-gray-700 m-10"
             placeholder="Type"
           />
           <button>Search</button>
